@@ -1,5 +1,9 @@
 /*FLEXBOX
 */
+
+.bg-color{ background-color: rgb(241, 247, 253)
+
+}
 .flex-container {
     display: flex;
     flex-direction: row;
@@ -11,9 +15,7 @@
     background-color: #f1f1f1;
     margin: 10px;
     padding: 30px;
-    font-size: 30px;
-
-    
+    font-size: 30px; 
 }
 
 .simpel {
@@ -30,3 +32,35 @@
     text-shadow: 20px silver;
 }
 
+.flexinr3 {
+display: flexi;
+flex-direction: column;
+justify-content: space-around;
+background-color: rgb(106, 118, 184);
+width: 8%;
+padding: 10px;
+
+margin: 30px;
+}
+
+.flexinr3-box{
+background-color: rgb(130, 180, 30);
+margin: 20px;
+padding: 5px;
+font-size: 20px;
+border: solid 3px moccasin;
+width: 40px;
+height: 15px;
+
+
+}
+.flex-bigbox{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: tomato;
+    height: 200px;
+    width: 600px;
+}
+.flex-bigbox-h1{
+    
+}
