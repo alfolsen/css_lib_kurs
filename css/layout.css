@@ -18,6 +18,15 @@
     font-size: 30px; 
 }
 
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
 .simpel {
     display: flex;
 }
@@ -60,7 +69,4 @@ height: 15px;
     background-color: tomato;
     height: 200px;
     width: 600px;
-}
-.flex-bigbox-h1{
-    
 }
