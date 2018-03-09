@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../css/colors.css">
+    <title>Fargetema</title>
+  </head>
+  <body class="color-bg-body">
+    <div class="color-main color-bg-primary">
+      <h1>Fargetema</h1>
+      <p>En presentasjon av fargetema som kan brukes på nettsider. Vil inneholde fargevalg ut i fra helhetlig fargetema med situasjonsavhengige valg.
+        <ul>
+          <li>.color-main</li>
+          <li>.color-accent</li>
+          <li>.color-success</li>
+          <li>.color-warning</li>
+          <li>.color-danger</li>
+          <li>.color-info</li>
+          <li>.color-bg-body</li>
+          <li>.color-bg-primary</li>
+          <li>.color-bg-secondary</li>
+        </ul>
+      </p>
+    </div>
+
+    <div class="color-main color-bg-primary">
+      <h3>Klassen "color-main"</h3>
+      <p>Angir hovedfargen på tekst og andre inline elmenter for hele siden.<p>
+    </div>
+    <div class="color-accent color-bg-primary">
+      <h3>Klassen "color-accent"</h3>
+      <p>Angir sekundærfargen på tekst og andre inline elmenter for hele siden.<p>
+    </div>
+    <div class="color-success color-bg-primary">
+      <h3>Klassen "color-success"</h3>
+      <p>Angir farge på tekst og andre inline elmenter som indikerer at noe bra skjedde.<p>
+    </div>
+    <div class="color-warning color-bg-primary">
+      <h3>Klassen "color-warning"</h3>
+      <p>Angir farge på tekst og andre inline elmenter som indikerer at noe galt kan skje.<p>
+    </div>
+    <div class="color-danger color-bg-primary">
+      <h3>Klassen "color-danger"</h3>
+      <p>Angir farge på tekst og andre inline elmenter som indikerer at noe er potensielt farlig.<p>
+    </div>
+    <div class="color-info color-bg-primary">
+      <h3>Klassen "color-info"</h3>
+      <p>Angir farge på tekst og andre inline elmenter som indikerer at viktig informasjon blir vist.<p>
+    </div>
+    <div class="color-main color-bg-body">
+      <h3>Klassen "color-bg-primary"</h3>
+      <p>Angir primærfarge for bakgrunnen på hele nettsiden. Boksen denne teksten er lagt inn i indikerer valgt farge i klassen "color-bg-body"<p>
+    </div>
+    <div class="color-main color-bg-primary">
+      <h3>Klassen "color-bg-primary"</h3>
+      <p>Angir primærfarge på bakgrunnsfarge for element på siden. Boksen denne teksten er lagt inn i indikerer valgt farge i klassen "color-bg-primary"<p>
+    </div>
+    <div class="color-main color-bg-accent">
+      <h3>Klassen "color-bg-accent"</h3>
+      <p>Angir sekundærfarge på bakgrunnsfarge for element på siden. Boksen denne teksten er lagt inn i indikerer valgt farge i klassen "color-bg-accent"<p>
+    </div>
+  </body>
+</html>

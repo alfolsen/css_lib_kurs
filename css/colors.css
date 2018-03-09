@@ -5,9 +5,48 @@
 
 .primary-bg{background-color: lightgoldenrodyellow}
 
+.color-primary-bg{color: blue;
+}
 
+.color-primary-dark{color: darkblue;
+}
 
-sucsess
-warning
-danger
-info
+.color-primary-light{color: lightblue;
+}
+
+.color-packground-main{background-color: indianred;
+}
+
+.color-packground-main{background-color: indianred;
+}
+
+.navbar{ background-color: blue;
+    color: white;
+    height: 100px;
+    border: solid 1px black;
+    border-radius: 10px;
+}
+
+.size-50px{
+    height: 50px;
+    width: 50px;
+    margin: 5px;  
+    border: solid 1px black;
+}
+.size-150px{
+    height: 150px;
+    width: 150px;   
+    border: solid 1px black;
+}
+.margin-25{
+    margin: 25px;
+}
+.sucsess{
+    color: green;
+}
+.warning{
+    color: yellow;
+}
+.danger{color: red;
+}
+.info{color: magenta;}
