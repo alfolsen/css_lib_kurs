@@ -1,3 +1,5 @@
+
+
 .primary{color: #0088ce;}
 .accent{color: rgb(35, 207, 35);}
 .accent-bg{background-color: sandybrown}
@@ -20,13 +22,16 @@
 .color-packground-main{background-color: indianred;
 }
 
-.footer{}
-
 .navbar{ background-color: blue;
     color: white;
     height: 100px;
     border: solid 1px black;
     border-radius: 10px;
+}
+
+.footer{
+    color: lightskyblue;
+    height: 30px;
 }
 
 .size-50px{
