@@ -8,12 +8,14 @@
     flex-direction: row;
     background-color: lightcoral;
     justify-content: space-around;
-}
-.flex-item {
-    background-color: #f1f1f1;
-    margin: 10px;
-    padding: 30px;
-    font-size: 30px; 
+ }
+ .flex-item {
+     padding: 20px;
+     margin: 0.5px;
+ }
+.flex-item:hover {
+    display: block;
+    color: blueviolet;
 }
 .flex-row{
     display: flex;
